@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="180" viewBox="0 0 150 180">
+  <g id="icono_sin_foto" transform="translate(-539 -444)">
+    <g id="Rectángulo_22190" data-name="Rectángulo 22190" transform="translate(539 444)" fill="#f2f2f2" stroke="#ccc" stroke-width="0.5">
+      <rect width="150" height="180" stroke="none"/>
+      <rect x="0.25" y="0.25" width="149.5" height="179.5" fill="none"/>
+    </g>
+    <path id="Icon_awesome-user-alt" data-name="Icon awesome-user-alt" d="M55.5,62.438A31.219,31.219,0,1,0,24.281,31.219,31.227,31.227,0,0,0,55.5,62.438Zm27.75,6.938H71.3a37.739,37.739,0,0,1-31.609,0H27.75A27.748,27.748,0,0,0,0,97.125v3.469A10.409,10.409,0,0,0,10.406,111h90.188A10.409,10.409,0,0,0,111,100.594V97.125A27.748,27.748,0,0,0,83.25,69.375Z" transform="translate(558.5 484.5)" fill="#dbdbdb"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg id="adjuntar" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="10.102" height="18" viewBox="0 0 10.102 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_22191" data-name="Rectángulo 22191" width="10.102" height="18" fill="#333"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_16774" data-name="Grupo 16774" clip-path="url(#clip-path)">
+    <path id="Trazado_3420" data-name="Trazado 3420" d="M10.1,4.847A5.05,5.05,0,0,0,0,4.847c0,.017,0,8.483,0,8.483a.611.611,0,0,0,1.222,0V5.051a3.829,3.829,0,0,1,7.658,0v9.283a2.446,2.446,0,0,1-2.444,2.444h-.02a2.446,2.446,0,0,1-2.444-2.444V6.389a1.109,1.109,0,1,1,2.217,0V13.33a.611.611,0,0,0,1.222,0s0-7.014,0-7.029a2.327,2.327,0,0,0-4.651-.012c0,.017,0,8.045,0,8.045A3.67,3.67,0,0,0,6.416,18h.02A3.67,3.67,0,0,0,10.1,14.334s0-9.47-.005-9.487" fill="#333"/>
+  </g>
+</svg>
