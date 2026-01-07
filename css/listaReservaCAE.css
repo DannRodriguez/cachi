@@ -1,0 +1,175 @@
+@font-face {
+  font-family: "Roboto-Regular";
+  src: local("Roboto-Regular"), url("./fonts/Roboto-Regular.ttf");
+}
+@font-face {
+  font-family: "Roboto-Medium";
+  src: local("Roboto-Medium"), url("./fonts/Roboto-Medium.ttf");
+}
+
+#content-lista-reserva {
+  padding: 24px;
+  background: #ffffff;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  display: flex;
+}
+.span-observaciones {
+  position: "absolute";
+  bottom: "-20px";
+  right: "0";
+  font-size: "11px";
+}
+.radio-row {
+  margin-bottom: 16px;
+  align-items: center;
+}
+
+.radio-row .ant-radio-wrapper {
+  font-size: 14px;
+}
+
+.ant-form-item {
+  margin-bottom: 16px;
+}
+
+.button-row {
+  margin-top: 24px;
+  text-align: center;
+}
+
+.accept-button {
+  background-color: #d5007f !important;
+  border-color: #d5007f !important;
+  color: white !important;
+  font-size: 16px !important;
+  font-family: "Roboto-Regular";
+  padding: 8px 24px !important;
+}
+
+.accept-button:hover {
+  background-color: #e76db6 !important;
+  border-color: #e76db6 !important;
+  color: white !important;
+}
+
+.accept-button:disabled {
+  background-color: #f3b6da !important;
+  border-color: #ed92c8 !important;
+  color: white !important;
+}
+
+.container_select_filtros {
+  width: 100%;
+  max-width: 755px;
+  /* background-color: lightblue;
+  padding: 10px;
+  text-align: center;
+  margin: auto; Centra el contenedor */
+}
+
+@media (max-width: 1200px) {
+  .container_select {
+    max-width: 200%; /* Ajusta el ancho para pantallas pequeñas */
+    margin-top: 10px;
+  }
+}
+
+@media (max-width: 900px) {
+  .container_select {
+    max-width: 200%; /* Ajusta el ancho para pantallas pequeñas */
+    margin-top: 10px;
+  }
+}
+
+@media (max-width: 600px) {
+  .container_select {
+    max-width: 200%; /* Ajusta el ancho para pantallas pequeñas */
+  }
+}
+
+@media (max-width: 320px) {
+  .container_select {
+    max-width: 90%; /* Ajusta el ancho para pantallas pequeñas */
+  }
+}
+
+.sub_titulos_radios {
+  text-align: left;
+  font-family: "Roboto-Medium";
+  font-size: 19px;
+  letter-spacing: 0px;
+  color: #333333;
+  opacity: 1;
+}
+
+.header-cell {
+  background-color: #001529; /* Azul oscuro */
+  color: rgb(247, 45, 45);
+  text-align: center;
+}
+.custom-row {
+  text-align: left;
+}
+
+.ant-table-thead .ant-table-cell {
+  background-color: #dbdbdb !important;
+}
+
+.radio-group {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.row {
+  padding: 5px 5px 5px 0px;
+}
+.form-item {
+  margin-top: 5px !important;
+}
+
+.col-item {
+  margin-top: 10px !important;
+}
+
+.col-item-status {
+  padding-top: 5px;
+}
+
+@media (min-width: 1200px) {
+  .col-item {
+    text-align: right;
+    padding: 0px !important;
+    margin-left: 10px !important;
+  }
+  .col-item-status {
+    padding-left: 20px !important;
+  }
+}
+@media (max-width: 1199px) {
+  .col-item {
+    text-align: left;
+    padding: 0px !important;
+    margin-left: 10px !important;
+  }
+  .col-item-status {
+    padding-left: 20px !important;
+  }
+}
+@media (max-width: 767px) {
+  .col-item {
+    text-align: left;
+  }
+  .col-item-status {
+    padding-left: 10px !important;
+  }
+}
+
+.lista-reserva-criterio {
+  margin-bottom: 20px;
+  color: #333333;
+  font-family: "Roboto-Regular";
+  font-size: 14px;
+}

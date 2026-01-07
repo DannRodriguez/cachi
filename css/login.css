@@ -1,0 +1,36 @@
+.ant-input-prefix{
+    color:#df3c9d !important
+}
+.anticon.anticon-eye-invisible.ant-input-password-icon{
+    color:#df3c9d !important
+}
+.cardLogin{
+    box-shadow: 0px 3px 4px #00000029;
+    border-radius: 10px;
+}
+
+.divCard{
+    align-items: center;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: #F2F2F2;
+}
+
+/* LOGOUT */
+.logoutButton{
+    background-color: #FFFFFF;
+    color: #D5007F;
+    border-radius: 6px;
+}
+
+.logoutButton:hover{
+    border-color: transparent !important;
+}
+
+.etiquetas_warnings_login{
+    color:#D5007F;
+    font-family:Roboto-Regular;
+    width:100%;                                                                      
+    text-align:center;
+}
